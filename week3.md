@@ -74,5 +74,5 @@
 
 ## Part 3
 
-
+I learned how a website handles requests with the use of paths and queries, and how to code methods that can manipulate and use the inputs from a URL. It was really interesting to see the input as the URL name and the output as the display of the website, directly reflecting the changes into the website in real time. I also learned how to run a server on a different machine using ssh, which made me realize how public websites are run. It was cool to learn that servers are actually just computers that are hosting the programs that govern how the website runs.
     
