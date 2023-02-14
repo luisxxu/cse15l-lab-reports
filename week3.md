@@ -18,11 +18,13 @@
    
 **String Server Screenshots**
 
-<img width="569" alt="Screen Shot 2023-01-29 at 5 23 52 PM" src="https://user-images.githubusercontent.com/114445896/215616590-5e7affc3-3f6b-4f14-b87e-c2109afadc22.png">
+<img width="446" alt="Screen Shot 2023-02-13 at 9 19 24 PM" src="https://user-images.githubusercontent.com/114445896/218646453-bb99520c-5e17-40f2-b4a0-c49f2ea03b17.png">
+
 
 >**The method called was handleRequest, and the argument passed through is the URL that's entered with the domain. Once the URL is passed through, the method reads the path and query to see if it matches with add-message and ?s=string. The value of return string, which keeps track of the final output displayed on the website, updates by adding "Good\n" to the string.**
 
-<img width="568" alt="Screen Shot 2023-01-29 at 5 24 48 PM" src="https://user-images.githubusercontent.com/114445896/215616654-8bd41a77-4856-4e15-8ea8-a0facbce63e8.png">
+<img width="439" alt="Screen Shot 2023-02-13 at 9 19 34 PM" src="https://user-images.githubusercontent.com/114445896/218646481-75dd16d7-eb0b-4ce4-9738-4493af7dc713.png">
+
 
 >**The method called was handleRequest, and the argument passed through is the URL that's entered with the domain. Once the URL is passed through, the method reads the path and query to see if it matches with add-message and ?s=string. The value of return string, which keeps track of the final output displayed on the website, updates by adding "Morning\n" to the string.**
 
